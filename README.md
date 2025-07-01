@@ -1,1 +1,2 @@
-<img src"https://github.com/code-polaris044/gemini-cli-test/blob/main/img.png">
+
+![Uploading スクリーンショット 2025-07-01 17.55.02.png…]()
